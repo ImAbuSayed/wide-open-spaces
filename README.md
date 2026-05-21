@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Got the engine running, staring at the dash
+> Waiting for the spark to turn into a flash
+> You're the open highway calling out my name
+> Lighting up the darkness, feeding every flame
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
