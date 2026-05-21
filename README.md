@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wide-open-spaces/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Wide Open Spaces](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wide-open-spaces/) |
+| **Get License** | [Obtain a Music License for Wide Open Spaces](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wide-open-spaces/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2485861ae3107d7afda587ce1a924be261147cfd52ffc5e5d82a8ac5e346b67e` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
